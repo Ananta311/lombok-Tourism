@@ -43,6 +43,7 @@ if (isset($_POST['register'])) {
 
     <button type="submit" name="register">Daftar</button>
 </form>
+<h2>tester</h2>
 
 </body>
 </html>
